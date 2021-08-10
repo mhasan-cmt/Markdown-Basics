@@ -1,5 +1,5 @@
 # Markdown Basics
-## Here are some sample code of markdown.
+## Here are some sample codes of markdown.
 
 index|
 ----|
